@@ -2,4 +2,5 @@
 
 
 #Passo a passo seguindo  o canal abaixo: 
-[Texto do Link]([URL-do-link](https://www.youtube.com/@codandocomamor/videos))
+
+[Canal Codando com Amor (O F I C I A L) ]([URL-do-link](https://www.youtube.com/@codandocomamor/videos))
