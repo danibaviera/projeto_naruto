@@ -3,4 +3,4 @@
 
 #Passo a passo seguindo  o canal abaixo: 
 
-[Canal Codando com Amor (O F I C I A L) ]([URL-do-link](https://www.youtube.com/@codandocomamor/videos))
+[Codando com Amor (O F I C I A L)](https://www.youtube.com/@codandocomamor/videos).
